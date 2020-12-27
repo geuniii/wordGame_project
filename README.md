@@ -26,7 +26,8 @@ DB : mysql  Ver 8.0.20, MariaDB 10.5.8  <br/><br/><br/>
 
 ## 작품 영상  
 <div>
-	<a href=https://youtu.be/IIp5B48cUWA"><image src ="https://user-images.githubusercontent.com/62981623/103178660-15b87000-48c8-11eb-9093-7aa73548d1f8.jpg"></a>
+	<a href=https://youtu.be/IIp5B48cUWA"><image src ="https://user-images.githubusercontent.com/62981623/103178871-2b2e9980-48ca-11eb-87d6-0f6b41e68480.jpg")
+"></a>
 
 </div>
 
