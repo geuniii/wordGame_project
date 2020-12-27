@@ -25,8 +25,9 @@ DB : mysql  Ver 8.0.20, MariaDB 10.5.8  <br/><br/><br/>
 - 사용자 랭킹 조회  <br/><br/><br/>
 
 ## 작품 영상  
-https://www.youtube.com/watch?v=IIp5B48cUWA&t=23s
-
+<div>
+<image src ="https://user-images.githubusercontent.com/62981623/103178660-15b87000-48c8-11eb-9093-7aa73548d1f8.jpg" onclick = "location.href="https://youtu.be/IIp5B48cUWA">
+</div>
 
 
 ## 작품의 특장점
@@ -153,7 +154,8 @@ TCP/IP Socket 통신으로 1:1 대결 기능을 추가하고자 하였다. 문�
 단어가 랜덤하게 움직이는 동안 x좌표가 그래픽 Panel의 너비와 닿으면 반대 방향으로 움직이게 구현하였다. Panel의 너비뿐 만 아니라, 단어마다 폭을 구하여 부딪치면 반대 방향으로 움직이게 구현한다면 랜덤하게 움직이는 동안 단어들이 겹치는 현상을 개선할 수 있다.  
 <br/><br/><br/>
 
-### Javadoc
+### Javadoc 
+[Javadoc](https://geuniii.github.io/wordGame_project/WordGameProject/doc/index.html)
 
 
 
