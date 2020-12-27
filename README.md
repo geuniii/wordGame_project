@@ -26,7 +26,8 @@ DB : mysql  Ver 8.0.20, MariaDB 10.5.8  <br/><br/><br/>
 
 ## 작품 영상  
 <div>
-<image src ="https://user-images.githubusercontent.com/62981623/103178660-15b87000-48c8-11eb-9093-7aa73548d1f8.jpg" onclick = "location.href="https://youtu.be/IIp5B48cUWA">
+	<a href=https://youtu.be/IIp5B48cUWA"><image src ="https://user-images.githubusercontent.com/62981623/103178660-15b87000-48c8-11eb-9093-7aa73548d1f8.jpg"></a>
+
 </div>
 
 
