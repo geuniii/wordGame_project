@@ -24,7 +24,7 @@ DB : mysql  Ver 8.0.20, MariaDB 10.5.8  <br/><br/><br/>
 - 상위 점수 아이디 랭킹 나열
 - 사용자 랭킹 조회  <br/><br/><br/>
 
-## 작품 영상  
+## 시연 영상  
 <div>
 	<a href=https://youtu.be/IIp5B48cUWA"><image src ="https://user-images.githubusercontent.com/62981623/103178871-2b2e9980-48ca-11eb-87d6-0f6b41e68480.jpg")
 "></a>
@@ -32,7 +32,7 @@ DB : mysql  Ver 8.0.20, MariaDB 10.5.8  <br/><br/><br/>
 </div>
 
 
-## 작품의 특장점
+## 의 특장점
 ### 1. 멀티 스레딩으로 다양한 기능을 병렬적, 경제적 수행  
    
    진행된 정도 표시 스레드 / 정답 속도 타이머 스레드 /단어 생성 스레드 / 그래픽 repaint 스레드
