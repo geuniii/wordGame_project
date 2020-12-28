@@ -155,9 +155,10 @@ TCP/IP Socket 통신으로 1:1 대결 기능을 추가하고자 하였다. 문�
 단어가 랜덤하게 움직이는 동안 x좌표가 그래픽 Panel의 너비와 닿으면 반대 방향으로 움직이게 구현하였다. Panel의 너비뿐 만 아니라, 단어마다 폭을 구하여 부딪치면 반대 방향으로 움직이게 구현한다면 랜덤하게 움직이는 동안 단어들이 겹치는 현상을 개선할 수 있다.  
 <br/><br/><br/>
 
-### Javadoc 
+## Javadoc 
 [Javadoc](https://geuniii.github.io/wordGame_project/WordGameProject/doc/index.html)
+<br/><br/><br/>
 
-### ERD  
+## ERD  
 ![word_ERD](https://user-images.githubusercontent.com/62981623/103192026-8daf8600-491a-11eb-9593-577d54655cf4.jpg)
 
