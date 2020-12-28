@@ -131,8 +131,7 @@ DB에 meaning을 여러가지 넣었을 때, 사용자가 입력한 값이 있�
 
 ### **3. BGM을 넣은 AudioStream이 새 Frame 생성시마다 여러번 호출되는 문제**  
 
-모든 Frame class는 InitFrame class를 상속받아 일괄적으로 초기화된다. 하나의 음원을 프로그램 실행시 연속하여 반복재생하기 위해  
-InitFrme에서 객체를 생성했지만, 상속받은 Frame들이 생성될 때마다 Audio Clip도 생성되는 문제가 생겼다.  
+모든 Frame class는 InitFrame class를 상속받아 일괄적으로 초기화된다. 하나의 음원을 프로그램 실행시 연속하여 반복재생하기 위해 InitFrme에서 객체를 생성했지만, 상속받은 Frame들이 생성될 때마다 Audio Clip도 생성되는 문제가 생겼다.  
 
 --> 기존 Frame을 닫고 새로운 Frame을 생성할 때마다 clip.stop();을 통해 잠시 멈춘 후 멈춘 곳에서 다시 재생하게 하여 해결하였다.  
 
