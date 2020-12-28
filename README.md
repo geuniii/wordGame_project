@@ -158,5 +158,6 @@ TCP/IP Socket 통신으로 1:1 대결 기능을 추가하고자 하였다. 문�
 ### Javadoc 
 [Javadoc](https://geuniii.github.io/wordGame_project/WordGameProject/doc/index.html)
 
-
+### ERD  
+![word_ERD](https://user-images.githubusercontent.com/62981623/103192026-8daf8600-491a-11eb-9593-577d54655cf4.jpg)
 
